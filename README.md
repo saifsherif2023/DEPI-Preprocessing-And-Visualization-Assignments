@@ -1,2 +1,2 @@
-# DEPI-Preprocessing-And-Visualization-Assignments
- DEPI Preprocessing & Visualization Assignments
+# Preprocessing-And-Visualization-Assignments-(DEPI)
+ Preprocessing & Visualization Assignments (DEPI)
